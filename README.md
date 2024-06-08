@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a 2d platformer game
 - 🌱 I’m currently learning C and Java
 - 🤔 I’m looking for help with learning low level programming
-- ⚡ Fun fact: I love C
+- ⚡ Fun fact: I love C language
 <!-- 💬 Ask me about ... 
  - 📫 How to reach me: ...
  - 😄 Pronouns: ... -->
