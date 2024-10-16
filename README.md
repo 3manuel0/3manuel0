@@ -4,9 +4,9 @@
 
 <!-- -Here are some ideas to get you started: -->
 - 🔭 I’m currently working on a 2d platformer game
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning Rust, Java, php and C#
 - 🤔 I’m looking for help with learning low level programming
-- ⚡ Fun fact: I love C language
+- ⚡ Fun fact: I love the C language
 <!-- 💬 Ask me about ... 
  - 📫 How to reach me: ...
  - 😄 Pronouns: ... -->
