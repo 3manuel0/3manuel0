@@ -1,20 +1,16 @@
 <svg width="256" height="264.3" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet">
     <style>
         #eyes {
-            animation: eyes 1s infinite;
+            animation: eyes 0.5s linear infinite;
         }
 
         @keyframes eyes {
             0% {
-                transform: skewY(0deg);
+                opacity: 0;
             }
 
-            20%,
-            40%,
-            60%,
-            80%,
             100% {
-                transform: skewY(45deg);
+                opacity: 1;
             }
         }
     </style>
