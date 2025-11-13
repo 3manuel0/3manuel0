@@ -26,6 +26,6 @@
 <img width="12" />
 <img height="60" src="https://raw.githubusercontent.com/3manuel0/3manuel0/refs/heads/assets/WebAssembly.svg" />
 <img width="12" />
- <img height="60" src="https://raw.githubusercontent.com/3manuel0/3manuel0/refs/heads/assets/Debian.svg" />
+ <img height="60" src="https://raw.githubusercontent.com/3manuel0/3manuel0/refs/heads/assets/Voidlinux.svg" />
 <img width="12" />
 </div>
