@@ -32,6 +32,6 @@
  <img height="60" src="https://raw.githubusercontent.com/3manuel0/3manuel0/refs/heads/assets/Voidlinux.svg" />
 <img width="12" />
 </div>
-<a href="https://user-badge.committers.top/morocco/3manuel0">
+<a height="60" href="https://user-badge.committers.top/morocco/3manuel0">
   <img src="https://user-badge.committers.top/morocco/3manuel0.svg" alt="committers.top badge">
 </a>
