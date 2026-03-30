@@ -32,4 +32,4 @@
  <img height="60" src="https://raw.githubusercontent.com/3manuel0/3manuel0/refs/heads/assets/Voidlinux.svg" />
 <img width="12" />
 </div>
-[![committers.top badge](https://user-badge.committers.top/morocco/USERNAME.svg)](https://user-badge.committers.top/morocco/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/morocco/3manuel0.svg)](https://user-badge.committers.top/morocco/3manuel0)
