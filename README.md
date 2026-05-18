@@ -27,7 +27,9 @@
 <img width="12" />
 <img height="60" src="https://raw.githubusercontent.com/3manuel0/3manuel0/refs/heads/assets/Python.svg" />
 <img width="12" />
-<img height="60" src="https://raw.githubusercontent.com/3manuel0/3manuel0/refs/heads/assets/WebAssembly.svg" />
+<img height="60" src="https://raw.githubusercontent.com/3manuel0/3manuel0/refs/heads/assets/Kotlin.svg" />
+<img width="12" />
+<img height="60" src="Java" />
 <img width="12" />
  <img height="60" src="https://raw.githubusercontent.com/3manuel0/3manuel0/refs/heads/assets/Voidlinux.svg" />
 <img width="12" />
